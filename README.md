@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/pov_stephany/)
 
 
-I'm a 20-year-old full-stack web developer, designer, and college student. I'm interested in creating a big change in the world with the help of technology.
+I'm a 20-year-old full-stack web developer, designer, and college student. I'm interested in making a big change in the world with the help of technology.
 
 I work on projects in my free time.
 
