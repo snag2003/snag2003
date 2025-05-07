@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/pov_stephany/)
 
 
-I'm a 20-year-old full-stack web developer, designer, and college student. I'm interested in making a big change in the world with the help of technology.
+I'm a 21-year-old full-stack web developer, designer, and college student. I'm interested in making a big change in the world with the help of technology.
 
 I work on projects in my free time.
 
@@ -21,10 +21,6 @@ Tech Stack:
  <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snag2003&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snag2003&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
-<b>☄️ Github Streaks</b>
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=snag2003&hide_border=true" />
 
 <b>⚙️ Things I use to get stuff done</b>
   	<ul>
